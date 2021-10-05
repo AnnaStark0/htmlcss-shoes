@@ -34,7 +34,8 @@ body {
 }
 
 .cerchio {
-    height: 10;
+    height: 20px;
+    width: 30px;
     background-color: white;
     padding: 15px;
     border-radius: 50%;
@@ -88,5 +89,5 @@ h3 {
 }
 
 .converse {
-    margin-top: 30px;
+    padding-top: 50px;
 }
