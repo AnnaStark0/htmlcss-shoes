@@ -82,3 +82,11 @@ h3 {
     margin:0px auto;
     text-align: center;
 }
+
+#textgreen {
+    color: green;
+}
+
+.converse {
+    margin-top: 30px;
+}
